@@ -1,11 +1,11 @@
-name = "Mavis2103/stdlib"
+name = "mavis2103/stdlib"
 version = "main"
 compiler = "v1.1.19"
-plutus = "v3"
+plutus = "v3.0.1"
 description = "The Aiken Standard Library"
 
 [repository]
-user = "Mavis2103"
+user = "mavis2103"
 project = "stdlib"
 platform = "github"
 
